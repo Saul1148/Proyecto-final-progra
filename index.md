@@ -29,3 +29,38 @@ Tarea 3
 [Programa 1 Tarea3](https://github.com/Saul1148/Proyecto-final-progra/blob/main/progra%201.mat)
 
 [Programa 2 Tarea 3](https://github.com/Saul1148/Proyecto-final-progra/blob/main/progra%202.mat)
+
+Tarea 4
+
+[Programa 1 Tarea4](https://github.com/Saul1148/Proyecto-final-progra/blob/main/Programa%201.py)
+
+[Programa 2 Tarea4](https://github.com/Saul1148/Proyecto-final-progra/blob/main/Programa%202.py)
+
+[Programa 3 Tarea 4](https://github.com/Saul1148/Proyecto-final-progra/blob/main/Programa%203.py)
+
+Tarea 5
+
+[Programa 1 Tarea5]((https://github.com/Saul1148/Proyecto-final-progra/blob/main/P%201%20T5%201.py)
+
+[Programa 2 Tarea5](https://github.com/Saul1148/Proyecto-final-progra/blob/main/P%202%20T5%201.py)
+
+Tarea 6
+
+[Programa 1 Tarea6](https://github.com/Saul1148/Proyecto-final-progra/blob/main/Interpolaci%C3%B3n%20Newton%20Saul%20.py)
+
+[Programa 2 Tarea6](https://github.com/Saul1148/Proyecto-final-progra/blob/main/Interpolaci%C3%B3n%20Cuadr%C3%A1tica%20Saul.py)
+
+[Programa 3 Tarea6](https://github.com/Saul1148/Proyecto-final-progra/blob/main/Interpolaci%C3%B3n%20Lineal%20Saul.py)
+
+
+
+
+
+
+
+
+
+
+
+
+
